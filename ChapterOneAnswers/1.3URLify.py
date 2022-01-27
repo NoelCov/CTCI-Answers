@@ -13,4 +13,7 @@ def URLify(s, sLength):
             pointer -= 3
     return "".join(s)
 
+    # Run Time O(n)
+    # Space O(1)
+
 print(URLify("Hi Hello world    ", 14))

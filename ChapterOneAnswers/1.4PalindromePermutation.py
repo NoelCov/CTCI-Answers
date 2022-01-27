@@ -3,7 +3,6 @@ def PalindromePermutation(s):
     s = s.lower().replace(" ", "") 
 
     for letter in range(len(s)):
-        print(s[letter])
         if s[letter] in hash:
             hash[s[letter]] += 1
         else:
@@ -15,7 +14,8 @@ def PalindromePermutation(s):
             counter += 1
 
     return counter <= 1
-    
+
     # Run Time O(n)
+    # Space O(n)
 
 print(PalindromePermutation("dogegod"))
