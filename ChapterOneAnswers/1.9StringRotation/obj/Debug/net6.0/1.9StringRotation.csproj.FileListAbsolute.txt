@@ -1,0 +1,15 @@
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\bin\Debug\net6.0\1.9StringRotation.exe
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\bin\Debug\net6.0\1.9StringRotation.deps.json
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\bin\Debug\net6.0\1.9StringRotation.runtimeconfig.json
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\bin\Debug\net6.0\1.9StringRotation.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\bin\Debug\net6.0\ref\1.9StringRotation.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\bin\Debug\net6.0\1.9StringRotation.pdb
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.csproj.AssemblyReference.cache
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.AssemblyInfoInputs.cache
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.AssemblyInfo.cs
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.csproj.CoreCompileInputs.cache
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\ref\1.9StringRotation.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.pdb
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.9StringRotation\obj\Debug\net6.0\1.9StringRotation.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\bin\Debug\net6.0\1.8ZeroMatrixSolution.exe
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\bin\Debug\net6.0\1.8ZeroMatrixSolution.deps.json
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\bin\Debug\net6.0\1.8ZeroMatrixSolution.runtimeconfig.json
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\bin\Debug\net6.0\1.8ZeroMatrixSolution.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\bin\Debug\net6.0\ref\1.8ZeroMatrixSolution.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\bin\Debug\net6.0\1.8ZeroMatrixSolution.pdb
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.csproj.AssemblyReference.cache
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.AssemblyInfoInputs.cache
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.AssemblyInfo.cs
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.csproj.CoreCompileInputs.cache
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\ref\1.8ZeroMatrixSolution.dll
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.pdb
+D:\coding\CrackingTheCodingInterview\ChapterOneAnswers\1.8ZeroMatrixSolution\obj\Debug\net6.0\1.8ZeroMatrixSolution.genruntimeconfig.cache

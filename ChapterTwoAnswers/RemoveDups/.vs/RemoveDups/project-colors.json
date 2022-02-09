@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "382ff0d6-470d-45ef-89d9-7c21864adfbb": {
+      "ProjectGuid": "382ff0d6-470d-45ef-89d9-7c21864adfbb",
+      "DisplayName": "RemoveDups",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
