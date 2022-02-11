@@ -1,12 +1,5 @@
 ﻿using SinglyLinkedListImplementation;
 
-LinkedList ll = new LinkedList(5);
-ll.AppenToEnd(10);
-ll.AppenToEnd(20);
-ll.AppenToEnd(30);
-ll.AppenToEnd(10);
-
-
 Node ReturnKthtoLast(int k, LinkedList ll)
 {
     Node? fastPointer = ll.Head;
@@ -30,5 +23,5 @@ Node ReturnKthtoLast(int k, LinkedList ll)
 
     return slowPointer;
 }
-
-Console.WriteLine(ReturnKthtoLast(10, ll));
+// Time Complexity O(n)
+// Space Complexity O(1)
