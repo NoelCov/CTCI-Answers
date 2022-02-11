@@ -62,7 +62,8 @@ namespace SinglyLinkedListImplementation
 
             if (this.Head == null) this.Head = newHead;
 
-            newHead.Next = this.Head;
+            Node prevHead = this.Head;
+            newHead.Next = prevHead;
             this.Head = newHead;
         }
     }

@@ -10,5 +10,10 @@
             this.Value = val;
             this.Next = null;
         }
+
+        public override string ToString()
+        {
+            return $"({this.Value})";
+        }
     }
 }
