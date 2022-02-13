@@ -51,9 +51,11 @@ namespace SinglyLinkedListImplementation
             Node newTail = new Node(val);
 
             if (this.Tail == null) this.Tail = newTail;
-
-            this.Tail.Next = newTail;
-            this.Tail = newTail;
+            else
+            {
+                this.Tail.Next = newTail;
+                this.Tail = newTail;
+            }
         }
 
         public void AppendToFront(int val)
@@ -61,10 +63,13 @@ namespace SinglyLinkedListImplementation
             Node newHead = new Node(val);
 
             if (this.Head == null) this.Head = newHead;
+            else
+            {
+                Node prevHead = this.Head;
+                newHead.Next = prevHead;
+                this.Head = newHead;
+            }
 
-            Node prevHead = this.Head;
-            newHead.Next = prevHead;
-            this.Head = newHead;
         }
     }
 }
