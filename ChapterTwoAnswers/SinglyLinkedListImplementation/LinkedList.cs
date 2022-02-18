@@ -21,7 +21,7 @@ namespace SinglyLinkedListImplementation
             this.Tail = node;
         }
 
-        public override string ToString()
+        public override string ToString(    )
         {
             if (this.Head == null)
             {
@@ -42,7 +42,6 @@ namespace SinglyLinkedListImplementation
                 }
                 currentNode = currentNode.Next;
             }
-
             return sb.ToString();
         }
 
@@ -58,6 +57,16 @@ namespace SinglyLinkedListImplementation
             }
         }
 
+        public void AppendToEnd(Node node)
+        {
+            if (this.Tail == null) this.Tail = node;
+            else
+            {
+                this.Tail.Next = node;
+                this.Tail = node;
+            }
+        }
+
         public void AppendToFront(int val)
         {
             Node newHead = new Node(val);
@@ -69,7 +78,16 @@ namespace SinglyLinkedListImplementation
                 newHead.Next = prevHead;
                 this.Head = newHead;
             }
+        }
 
+        public void AppendToFront(Node node)
+        {
+            if (this.Head == null) this.Head = node;
+            else
+            {
+                node.Next = this.Head;
+                this.Head = node;
+            }
         }
     }
 }

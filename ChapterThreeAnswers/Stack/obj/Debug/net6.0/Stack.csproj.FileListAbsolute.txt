@@ -1,0 +1,11 @@
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\bin\Debug\net6.0\Stack.dll
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\bin\Debug\net6.0\ref\Stack.dll
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\bin\Debug\net6.0\Stack.pdb
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\obj\Debug\net6.0\Stack.dll
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\obj\Debug\net6.0\ref\Stack.dll
+D:\coding\CrackingTheCodingInterview\ChapterThreeAnswers\Stack\obj\Debug\net6.0\Stack.pdb
